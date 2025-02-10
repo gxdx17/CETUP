@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447242125434",
+    "project_id": "cet-up",
+    "storage_bucket": "cet-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447242125434:android:fabe2f3c119c164628bbc3",
+        "android_client_info": {
+          "package_name": "com.dennissapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdyeVcd9ESAiNf0Xh6RHBLsj91DQcr_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
