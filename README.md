@@ -1,47 +1,28 @@
+# CET-UP: College Entrance Test Prep App
 
-# Cet-Up
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)](https://flutter.dev) 
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
 
+A Flutter-Firebase mobile application designed to help students prepare for college entrance exams with **review materials, study tools, and interactive quizzes**.
 
-### System requirements
+---
 
-Dart SDK Version 2.18.0 or greater.
-Flutter SDK Version 3.3.0 or greater.
+## 📱 Screenshots
+| Home | Quiz Interface | Study Materials |
+|------|---------------|-----------------|
+| <img src="https://i.ibb.co/spLDtDBY/Screenshot-2025-05-18-232419-removebg-preview.png" width="200"> | <img src="https://i.ibb.co/r2jRtRvc/Screenshot-2025-05-18-232355-removebg-preview.png" width="200"> | <img src="https://i.ibb.co/zHXR5tK7/Screenshot-2025-05-18-232337-removebg-preview.png" width="200"> |
 
+---
 
-### Check the UI of the entire app
+## 🛠️ Setup
 
-Check the UI of all the app screens from a single place by setting up the 'initialRoute'  to AppNavigation in the AppRoutes.dart file.
+### Prerequisites
+- Flutter SDK (v3.0.0+)
+- Firebase project (for authentication/database)
+- Android/iOS development environment
 
-### Application structure
-After successful build, your application structure should look like this:
-                    
-```
-.
-├── android                         - It contains files required to run the application on an Android platform.
-├── assets                          - It contains all images and fonts of your application.
-├── ios                             - It contains files required to run the application on an iOS platform.
-├── lib                             - Most important folder in the application, used to write most of the Dart code..
-    ├── main.dart                   - Starting point of the application
-    ├── core
-    │   ├── app_export.dart         - It contains commonly used file imports
-    │   ├── constants               - It contains static constant class file
-    │   └── utils                   - It contains common files and utilities of the application
-    ├── presentation                - It contains widgets of the screens
-    ├── routes                      - It contains all the routes of the application
-    └── theme                       - It contains app theme and decoration classes
-    └── widgets                     - It contains all custom widget classes
-```
-### How to format your code?
-
-- if your code is not formatted then run following command in your terminal to format code
-  ```
-  dart format .
-  ```
-
-### How you can improve code readability?
-
-Resolve the errors and warnings that are shown in the application.
-
-### Support
-
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+### Installation
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/your-username/CET-UP.git
+   cd CET-UP
