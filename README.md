@@ -8,7 +8,7 @@ A Flutter-Firebase mobile application designed to help students prepare for coll
 ---
 
 ## 📱 Screenshots
-| Home | Quiz Interface | Study Materials |
+| Search | Quiz Interface (Type) | Home |
 |------|---------------|-----------------|
 | <img src="https://i.ibb.co/spLDtDBY/Screenshot-2025-05-18-232419-removebg-preview.png" width="200"> | <img src="https://i.ibb.co/r2jRtRvc/Screenshot-2025-05-18-232355-removebg-preview.png" width="200"> | <img src="https://i.ibb.co/zHXR5tK7/Screenshot-2025-05-18-232337-removebg-preview.png" width="200"> |
 
