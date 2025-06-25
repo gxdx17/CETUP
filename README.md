@@ -24,5 +24,5 @@ A Flutter-Firebase mobile application designed to help students prepare for coll
 ### Installation
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/CET-UP.git
+   git clone https://github.com/gxdx17/CET-UP.git
    cd CET-UP
